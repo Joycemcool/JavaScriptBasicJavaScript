@@ -34,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">BASIC JAVASCRIPT</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    this is a collection of mini-JavaScript programs that perform a number of small computations.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
@@ -85,7 +85,22 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+General Requirements 
+
+     
+
+Write a function in JavaScript that will receive a string as a parameter and then perform the following: 
+You don’t have to prompt for a string. Simply assign a string to a variable in your code as your starting point to use as an argument for your function. 
+If the first and last characters of the string are the same (ignoring case), the function will return the string in reverse order. Otherwise, the function will return the string with the first and last letters removed. 
+Example: “Triscuit” returns “tiucsirT” but “Cracker” returns “racke”. 
+
+ 
+
+Resources: 
+
+W3Schools: https://www.w3schools.com/js/js_string_methods.asp 
+
+MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String 
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
